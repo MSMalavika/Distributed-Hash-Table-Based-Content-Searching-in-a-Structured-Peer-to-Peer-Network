@@ -24,25 +24,14 @@ After we enter into the interactive mode on the terminal a help is diplayed as f
 Give any of the following options:
 
 details: displays the node details
-
 fingertable: displays the finger table
-
 keytable: displays the key table
-
 search: Query search using zipf distribution.
-
 entries: diaplays the node entries in the node
-
 findfile: To find a file given as user input
-
 findentrie: checkes for if that entries in that node
-
 unReg:To unregister from the Bootstrap server.
-
 clear: to clear the screen
-
 Reg:To register.
-
 exit: To exit.
-
 exitall: to exit all the nodes 
